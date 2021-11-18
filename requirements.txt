@@ -1,0 +1,5 @@
+numpy - v1.20.1
+pandas - v1.2.4
+matplotlib - v3.3.4
+scikit-learn - v0.11.1
+seaborn - v0.24.1
